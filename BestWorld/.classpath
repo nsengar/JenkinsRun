@@ -9,5 +9,6 @@
 	<classpathentry kind="lib" path="C:/Users/nso7691/git/JenkinsRun/BestWorld/lib/testng-6.0.jar"/>
 	<classpathentry kind="lib" path="lib/jcommander-1.72.jar"/>
 	<classpathentry kind="lib" path="lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-standalone-3.8.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

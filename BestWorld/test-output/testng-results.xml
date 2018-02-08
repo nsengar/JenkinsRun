@@ -2,19 +2,12 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-02-08T18:41:16Z" name="Neha Suite" finished-at="2018-02-08T18:41:16Z" duration-ms="15">
+  <suite started-at="2018-02-08T19:10:25Z" name="Neha Suite" finished-at="2018-02-08T19:10:29Z" duration-ms="4101">
     <groups>
     </groups>
-    <test started-at="2018-02-08T18:41:16Z" name="Neha FIrst Test" finished-at="2018-02-08T18:41:16Z" duration-ms="15">
-      <class name="com.HelloWorld">
-        <test-method signature="myName(java.lang.String)" started-at="2018-02-08T18:41:16Z" name="myName" finished-at="2018-02-08T18:41:16Z" duration-ms="7" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Neha Sengar]]>
-              </value>
-            </param>
-          </params>
+    <test started-at="2018-02-08T19:10:25Z" name="Neha FIrst Test" finished-at="2018-02-08T19:10:29Z" duration-ms="4101">
+      <class name="com.SeleniumIgcognito">
+        <test-method signature="Incognito()" started-at="2018-02-08T19:10:25Z" name="Incognito" finished-at="2018-02-08T19:10:29Z" duration-ms="4092" status="PASS">
         </test-method>
       </class>
     </test>

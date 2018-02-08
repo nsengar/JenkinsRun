@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="LAINPUMA0800" failures="0" tests="1" name="com.HelloWorld" time="0.015" errors="0" timestamp="8 Feb 2018 13:11:16 GMT">
-  <testcase classname="com.HelloWorld" name="myName" time="0.007"/>
+<testsuite hostname="LAINPUMA0800" failures="0" tests="1" name="com.SeleniumIgcognito" time="4.101" errors="0" timestamp="8 Feb 2018 13:40:29 GMT">
+  <testcase classname="com.SeleniumIgcognito" name="Incognito" time="4.092"/>
 </testsuite>
