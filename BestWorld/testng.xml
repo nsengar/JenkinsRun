@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Neha Suite" verbose="1" preserve-order="true">
+
+	
+	<test name="Neha FIrst Test" enabled="true">
+		
+		<parameter name="Name" value="Neha Sengar"></parameter>
+		
+		<classes>
+			<class name="com.HelloWorld"></class>
+		</classes>
+	</test>
+
+</suite>
